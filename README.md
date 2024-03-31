@@ -1,3 +1,6 @@
+
+![image](https://github.com/ShivrajGore/K8s-Planes-Overview-/assets/20918004/69b2f643-cabd-418e-a14a-34db9e8242e3)
+
 **K8s -**
 **Component in worker node:** (_Data plane_- Responsible for running your application)
 
